@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Admin\Forms\gymPerformances.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Forms\Request2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Forms\Requests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Forms\revokeGym.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Forms\revokeGym2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\home_admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Essentials\MessageBoxes\customMessage_CompleteProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Essentials\MessageBoxes\missingInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Essentials\MessageBoxes\prompt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Essentials\MessageBoxes\prompt_dismiss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Appointments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\bookSession.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\dietPlans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\mainHomecs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Membership.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MyPlans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MyPlans2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SubForms\addExercise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SubForms\addMeal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SubForms\ApplyForOwner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SubForms\ApplyForTrainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SubForms\completeProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SubForms\createDietPlancs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SubForms\createWorkoutPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SubForms\giveFeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SubForms\Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SubForms\Profile_Apply.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SubForms\Profile_more.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SubForms\showSelected.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SubForms\TrainerInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\workoutPlans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner\Forms\addTrainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner\Forms\GymReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner\Forms\Manage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner\Forms\MemberReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner\Forms\SubForm\membershipDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner\Forms\SubForm\Requests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner\Forms\TrainerReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner\home_owner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Trainer\Forms\createDietPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Trainer\Forms\createWorkoutPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Trainer\Forms\Feedbacks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Trainer\Forms\manageAppointments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Trainer\Forms\viewMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Trainer\Forms\ViewPlans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Trainer\Forms\ViewPlans2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Trainer\home_trainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
